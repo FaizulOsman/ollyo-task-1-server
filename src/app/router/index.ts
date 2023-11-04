@@ -1,12 +1,12 @@
 import express from 'express';
-import { ProductRoutes } from '../modules/product/product.route';
+import { GalleryRoutes } from '../modules/gallery/gallery.route';
 
 const router = express.Router();
 
 const moduleRoutes = [
   {
-    path: '/products',
-    route: ProductRoutes,
+    path: '/gallery',
+    route: GalleryRoutes,
   },
 ];
 
