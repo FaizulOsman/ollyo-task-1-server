@@ -1,11 +1,11 @@
-# Ollyo-task-1
+# Ollyo-task-1-gallery
 
 ## Live Link:
 
-- Frontend:
-- Backend:
+- Frontend: https://ollyo-task-1-gallery.vercel.app
+- Backend: https://ollyo-task-1-gallery-server.vercel.app
 
 ## Github Repository Link:
 
-- Frontend:
-- Backend:
+- Frontend: https://github.com/FaizulOsman/ollyo-task-1
+- Backend: https://github.com/FaizulOsman/ollyo-task-1-server
